@@ -1,0 +1,21 @@
+NFT_DATA = {
+    "NAME": ["Encode StarkWare Paris 2022", "Encode ZK Bootcamp 2022", "StarkCC 2022"],
+    "SYMBOL": ["ESP22", "EZKB22", "STRKCC22"],
+    "MINT_ADDRESSES" : [
+    "0x459be245cab626bc30c064a15586b2c06a3ab981a1ddf2e2cd9463e57ba9c8d",
+    "0x7e5b6efa99b2faa6b7598b5927587edfb233cad36fa4c0667a83dfe7e105bb7",
+    "0x3994983c8b67b852054dbf17f7c92ae4cf9ebdcecf72abfa2219d38eefcc6e8",
+    "0x194dbea89ebe26336a47358eb8de2decb90863e5f21010efda3a333e2308048",
+],
+
+"OWNER_ADDRESS": "0x10dd23ab7142e8649851903444ff2c0099107d121d333d4adf558e4097fbe16",
+}
+
+# MINT_ADDRESSES : [
+#     "0x459be245cab626bc30c064a15586b2c06a3ab981a1ddf2e2cd9463e57ba9c8d",
+#     "0x7e5b6efa99b2faa6b7598b5927587edfb233cad36fa4c0667a83dfe7e105bb7",
+#     "0x3994983c8b67b852054dbf17f7c92ae4cf9ebdcecf72abfa2219d38eefcc6e8",
+#     "0x194dbea89ebe26336a47358eb8de2decb90863e5f21010efda3a333e2308048",
+# ]
+
+# OWNER_ADDRESS: "0x10dd23ab7142e8649851903444ff2c0099107d121d333d4adf558e4097fbe16"
