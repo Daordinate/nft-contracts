@@ -13,6 +13,7 @@ def deploy_erc721(nft_data: dict):
         print(subprocess.check_output(['nile', 'deploy', 'ERC721', str(name), str(symbol), owner_address, '--network', 'localhost']))
 
     print("NFTs deployed 🚀!")
+
     
 if __name__ == '__main__':
     deploy_erc721(NFT_DATA)
