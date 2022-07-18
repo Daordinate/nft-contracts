@@ -10,7 +10,7 @@ def deploy_erc721(nft_data: dict):
         symbol = string_to_integer(nft_data["SYMBOL"][_index])
         owner_address = nft_data["OWNER_ADDRESS"]
     
-        print(subprocess.check_output(['nile', 'deploy', 'ERC721', str(name), str(symbol), owner_address, '--network', 'goerli']))
+        print(subprocess.check_output(['nile', 'deploy', 'ERC721', str(name), str(symbol), owner_address, '--network', 'localhost']))
 
     print("NFTs deployed 🚀!")
     
