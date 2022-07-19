@@ -1,6 +1,7 @@
 # nft-contracts
 
 - NFT contracts for Daordinate
+- Requirements: openzeppelin nile and open zeppelin cairo contracts
 
 ## Deployment using nile
 
