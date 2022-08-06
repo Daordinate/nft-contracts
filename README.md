@@ -1,7 +1,13 @@
 # nft-contracts
 
-- NFT contracts for Daordinate
+- NFT contracts for [Daordinate](https://github.com/Daordinate/Daordinate)
 - Requirements: openzeppelin nile and open zeppelin cairo contracts
+
+## App Demo:
+
+[https://youtu.be/o5UpIUiIiYs](https://youtu.be/o5UpIUiIiYs)
+
+Deployed at: https://daordinate-three.vercel.app/
 
 ## Deployment using nile
 
